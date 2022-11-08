@@ -5,7 +5,7 @@
 
 <h2 >
 	
-	About th project
+	About the project
 	
 </h2>
 
