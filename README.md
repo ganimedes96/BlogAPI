@@ -9,7 +9,7 @@
 	
 </h2>
 
-<p>Api Restful de caadastro de posts, atraves dessa api e possivel cadastra , atualizar e excluir post, categoria e usuario. A conexão com o banco de dados foi feita com o ORM Sequelize e a autenticação com Json Web Token. </p>
+<p>Api Restful de cadastro de posts, atraves dessa api e possivel cadastra , atualizar e excluir post, categoria e usuario. A conexão com o banco de dados foi feita com o ORM Sequelize e a autenticação com Json Web Token. </p>
 
 ## 🚀 Technologies
 
